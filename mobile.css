@@ -168,7 +168,7 @@ body {
     height: 100%;
 }       
 .footer {
-    height: 80px;
+    height: 120px;
     display: flex;
     justify-content: space-evenly;
     align-items: flex-end;
