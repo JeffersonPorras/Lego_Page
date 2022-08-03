@@ -24,6 +24,7 @@ body {
 }
 
 .main-content {
+    height: auto;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -39,7 +40,10 @@ body {
 .main-content  p:last-child{
     width: 50%;
     font-size: 1.8rem;
-}     
+}  
+.footer {
+    height: auto;
+}   
 .footer div {
     width: 100px; 
 }
